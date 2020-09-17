@@ -1,0 +1,21 @@
+{
+    "version": "v1.0",
+    "author": "InferenceX Team of Didi Cloud",
+    "authorEmail": "caijinping@didiglobal.com, yangjintao@didiglobal.com",
+    "framework": "ifx",
+    "codeURL": "https://github.com/didiyun/dawnbench-ifx",
+    "commitHash": "d5c06fea3adb7d09c9955fa45212498dde89b8d5",
+    "model": "ResNet26",
+    "hardware": "Didi Cloud [1 T4 / 16 GB / 8 vCPU]",
+    "cost": 7.6782e-08,
+    "costPerHour": 0.7236,
+    "latency": 0.3820,
+    "top5Accuracy": 93.02,
+    "timestamp": "2020-09-17",
+    "misc": {
+       "batch_size": 1,
+       "Pytorch": "1.5.0",
+       "CUDA": "10.0",
+       "Model": "ResNet26"
+    }
+}
